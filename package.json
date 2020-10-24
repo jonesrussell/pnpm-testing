@@ -1,0 +1,23 @@
+{
+  "name": "pnpm-testing",
+  "version": "1.0.0",
+  "description": "Compare the install speeds and size of node_modules between pnpm, npm, and yarn.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonesrussell/pnpm-testing.git"
+  },
+  "keywords": [
+    "pnpm",
+    "node"
+  ],
+  "author": "Russell Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonesrussell/pnpm-testing/issues"
+  },
+  "homepage": "https://github.com/jonesrussell/pnpm-testing#readme"
+}
